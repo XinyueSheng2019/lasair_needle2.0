@@ -1,0 +1,22 @@
+logs
+needle_alerts
+records
+lasair_configs.py
+
+# Large model artifacts
+models/
+
+# Common large data / checkpoints
+*.h5
+*.hdf5
+*.pkl
+*.npz
+*.npy
+*.csv
+*.fits
+*.pt
+*.pth
+*.ckpt
+
+# Trained checkpoints under source
+source/quality_classification/quality_check_checkpoint/
