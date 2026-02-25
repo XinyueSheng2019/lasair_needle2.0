@@ -6,6 +6,10 @@ lasair_configs.py
 # Large model artifacts
 models/
 
+# Python cache
+__pycache__/
+*.py[cod]
+
 # Common large data / checkpoints
 *.h5
 *.hdf5
